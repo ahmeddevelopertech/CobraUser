@@ -3,9 +3,9 @@ import 'package:demandium/utils/core_export.dart';
 class AppConstants {
 
 
-  static const String appName = 'TT Club';
+  static const String appName = 'Cobra';
   static const String appVersion = '3.5'; /// Flutter SDK : 3.38.1
-  static const String baseUrl = 'https://Admin.ttclub.org';
+  static const String baseUrl = 'https://admin.cobra.eg';
   static const String websiteUrl =  'YOUR_DOMAIN_HERE'; // Replace with your actual web site URL : ex: https://demandium-web.6amtech.com
   static const String googleServerClientId = 'YOUR_CLIENT_ID_HERE'; /// find that in android/app/google-services.json || use client_type 3
   static const bool avoidMaintenanceMode = false;

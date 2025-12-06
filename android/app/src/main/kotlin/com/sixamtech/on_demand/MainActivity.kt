@@ -1,4 +1,4 @@
-package com.geekxdigital.ttclub.user
+package com.geekxdigital.cobra.user
 
 import io.flutter.embedding.android.FlutterActivity
 

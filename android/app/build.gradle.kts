@@ -14,12 +14,12 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.geekxdigital.ttclub.user"
+    namespace = "com.geekxdigital.cobra.user"
     compileSdk = 36
 
     defaultConfig {
         multiDexEnabled = true
-        applicationId = "com.geekxdigital.ttclub.user"
+        applicationId = "com.geekxdigital.cobra.user"
         minSdk = flutter.minSdkVersion
         targetSdk = 36
         versionCode = flutter.versionCode
