@@ -24,7 +24,7 @@
     </queries>
 
     <application
-        android:label="TT Club"
+        android:label="Cobra"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
         android:extractNativeLibs="true"
